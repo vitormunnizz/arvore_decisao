@@ -1,5 +1,3 @@
-# Projeto: Classificação de Concessão de Empréstimo usando Árvore de Decisão
-
 ## Descrição do Projeto
 
 Este projeto utiliza um algoritmo de **Árvore de Decisão** para prever se um indivíduo será aprovado ou não para um empréstimo, com base em um conjunto de características fornecidas. A abordagem utiliza técnicas de aprendizado supervisionado para construir um modelo de classificação que pode ser treinado com dados históricos e gerar previsões para novos clientes.
@@ -43,6 +41,16 @@ Os resultados do modelo de árvore de decisão incluem:
 
 Esses resultados ajudam a entender os fatores que influenciam a concessão de empréstimos e a avaliar o desempenho do modelo para aplicações futuras.
 
-## Contato
+## 👨‍💻 Autor
 
-Se você tiver dúvidas ou sugestões, entre em contato por [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com).
+**Vitor Hugo Muniz de Sousa Santos**
+
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**```
