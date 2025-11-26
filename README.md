@@ -45,4 +45,4 @@ Esses resultados ajudam a entender os fatores que influenciam a concessão de em
 
 ## Contato
 
-Se você tiver dúvidas ou sugestões, entre em contato por [vitor13muniz09@gmail.com](mailto:vitor13muniz09@gmail.com).
+Se você tiver dúvidas ou sugestões, entre em contato por [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com).
