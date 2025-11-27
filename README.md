@@ -45,6 +45,8 @@ Esses resultados ajudam a entender os fatores que influenciam a concessão de em
 
 **Vitor Hugo Muniz de Sousa Santos**
 
+💼 Engenheiro de Computação | Cientista de Dados
+
 📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
 🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
 
