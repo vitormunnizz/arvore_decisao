@@ -1,4 +1,4 @@
-## Descrição do Projeto
+## 📌 Descrição do Projeto
 
 Este projeto utiliza um algoritmo de **Árvore de Decisão** para prever se um indivíduo será aprovado ou não para um empréstimo, com base em um conjunto de características fornecidas. A abordagem utiliza técnicas de aprendizado supervisionado para construir um modelo de classificação que pode ser treinado com dados históricos e gerar previsões para novos clientes.
 
